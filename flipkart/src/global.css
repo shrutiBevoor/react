@@ -1,0 +1,18 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+    justify-content: space-around;
+
+}
+.navbar
+{
+    border:2px solid blueviolet;
+    display: flex;
+    background-color: rgb(0, 208, 255);
+}
+.menuBar
+{
+    border:2px solid red;
+    margin: 20px;
+    padding-left: 20px;  
+} */

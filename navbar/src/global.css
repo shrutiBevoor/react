@@ -1,0 +1,46 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.navBlock
+{
+  border: 2px solid red;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+.menuBlock ul li a
+{
+   text-decoration: none;
+   color: black;
+}
+.menuBlock ul li{
+  list-style: none;
+}
+.menuBlock ul
+{
+   justify-content: space-around;
+   align-items: center;
+   display: flex;
+   height:70px;
+   width:400px;
+   border: 2px solid firebrick;
+}
+input
+{
+  height: 45px;
+  width: 370px;
+  border: none;
+  color: blueviolet;
+}
+.inputDiv
+{
+  border-radius: 5px;
+  border:2px solid rgb(201,200,200);
+}
+.input img{
+  width: 30px;
+  height: 30px;
+}

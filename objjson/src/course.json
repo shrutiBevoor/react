@@ -1,0 +1,26 @@
+[
+    {
+        "course_nam":"java-full-stack",
+        "trainer_nam":"shankar",
+        "photo":"https://yt3.googleusercontent.com/ytc/AL5GRJUdubYYR51Ei6qhIzlbzI25CGzcj5DpfS50ZV5ebg=s900-c-k-c0x00ffffff-no-rj",
+        "languages":
+        [
+            "core java",
+            "sql",
+            "web technology"
+        ]
+
+    },
+    {
+        "course_nam":"mean_stack",
+        "trainer_nam":"uma shankar",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Umashankar_singh_mla.png/330px-Umashankar_singh_mla.png",
+        "languages":
+        [
+            "react",
+            "node",
+            "express"
+        ]
+
+    }
+]

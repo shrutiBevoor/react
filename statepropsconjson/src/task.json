@@ -1,0 +1,19 @@
+[
+    {
+        "emp_id":143,
+        "emp_name":"shruti",
+        "emp_sal":10000,
+        "emp_des":"dev",
+        "emp_gender":"female",
+        "emp_image":"https://i.pinimg.com/736x/c8/68/7d/c8687df5ffb903660fdd0ec4519ade37.jpg",
+        "emp_edu":"eng",
+        "companies":{
+            "previous_com":"test",
+            "current_comp":"tcs"
+        },
+        "emp_skills":[
+            "core java","sql","web technology"
+        ],
+        "emp_city":"bangalore"
+    }
+]
